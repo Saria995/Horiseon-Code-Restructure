@@ -20,6 +20,13 @@ As part of this project, Horiseon is requesting that the landing page:
 * Added alt attributes to image elements
 * All attributes were placed in order
 
+## Website Link
+https://saria995.github.io/Horiseon-Code-Restructure/
+
+## Contributions
+Code Restructure completed by Saria Elchaar
+
+
 
 
 
